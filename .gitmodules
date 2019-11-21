@@ -1,0 +1,3 @@
+[submodule "iti.intake40"]
+	path = iti.intake40
+	url = https://github.com/FatmaKhaled/cloudintake40.git
